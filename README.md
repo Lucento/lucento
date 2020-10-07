@@ -1,6 +1,6 @@
 # lucento
 
-Away to share books
+A way to share books
 
 ## Getting Started
 
